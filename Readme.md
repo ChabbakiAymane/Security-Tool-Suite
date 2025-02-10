@@ -1,3 +1,15 @@
+**English:**
+*For a more advanced and comprehensive security tool with additional features such as encryption, system monitoring, and enhanced network scanning, please check out the [Advanced Security Suite](https://github.com/Kashim0-afk/Advanced-Security-Suite) repository.*
+
+**Italiano:**
+*Per uno strumento di sicurezza più avanzato e completo, con funzionalità aggiuntive come crittografia, monitoraggio del sistema e scansione di rete avanzata, consulta il repository [Advanced Security Suite](https://github.com/Kashim0-afk/Advanced-Security-Suite).*
+
+
+
+
+
+
+
 # Project: Security Tool
 
 ## Project Description (English)
